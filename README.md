@@ -16,9 +16,7 @@ Languages I Speak: HTML5, CSS3, JavaScript (ES6+ and growing!)
 
 Concepts I'm Mastering: Making interfaces dynamic with DOM Manipulation, and ensuring everything looks good on any device with Responsive Design.
 
-# My Workspace Essentials:
-
-VS Code, GitHub, and Live Server for quick previews.
+ My Workspace Essentials: VS Code, GitHub, and Live Server for quick previews.
 
 # Projects I've Been Building 🚀
 
