@@ -30,6 +30,10 @@ Color Picker: A handy web tool for picking colors and grabbing their HEX codes.
 
 Try the Demo! https://faraninam.github.io/Color-Picker/
 
+Weather App: A simple and interactive web-based Weather Application built with HTML, CSS (Tailwind CSS for utility classes), and JavaScript.
+
+Try The Demo! https://faraninam.github.io/Weather-App/
+
 (I've always got more ideas brewing, so stay tuned for new projects!)
 
 # Let's Connect! ✉️
