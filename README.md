@@ -22,17 +22,21 @@ Concepts I'm Mastering: Making interfaces dynamic with DOM Manipulation, and ens
 
 Here are a couple of projects where I've been putting my skills into practice:
 
-To-Do List App: A simple, stylish little app to help keep track of daily tasks.
+__To-Do List App:__ A simple, stylish little app to help keep track of daily tasks.
 
-Check out the Demo! https://faraninam.github.io/To-Do-List/
+- Check out the Demo! https://faraninam.github.io/To-Do-List/
 
-Color Picker: A handy web tool for picking colors and grabbing their HEX codes.
+__Color Picker:__ A handy web tool for picking colors and grabbing their HEX/RGB codes.
 
-Try the Demo! https://faraninam.github.io/Color-Picker/
+- Try the Demo! https://faraninam.github.io/Color-Picker/
 
-Weather App: A simple and interactive web-based Weather Application built with HTML, CSS (Tailwind CSS for utility classes), and JavaScript.
+__Weather App:__ A simple and interactive web-based Weather Application built with HTML, CSS and JavaScript.
 
-Try The Demo! https://faraninam.github.io/Weather-App/
+- Try The Demo! https://faraninam.github.io/Weather-App/
+
+__Calculator:__ A sleek and functional web-based calculator application built using HTML, CSS, and JavaScript.
+
+Try The Demo! https://faraninam.github.io/Calculator/
 
 (I've always got more ideas brewing, so stay tuned for new projects!)
 
