@@ -36,11 +36,11 @@ __Weather App:__ A simple and interactive web-based Weather Application built wi
 
 __Calculator:__ A sleek and functional web-based calculator application built using HTML, CSS, and JavaScript.
 
-Try The Demo! https://faraninam.github.io/Calculator/
+- Try The Demo! https://faraninam.github.io/Calculator/
 
-__Clock:__A stylish and functional web-based digital clock with date display and time format toggling, built using HTML, CSS, and JavaScript.
+__Clock:__ A stylish and functional web-based digital clock with date display and time format toggling, built using HTML, CSS, and JavaScript.
 
-Try The Demo! https://faraninam.github.io/Clock/
+- Try The Demo! https://faraninam.github.io/Clock/
 
 (I've always got more ideas brewing, so stay tuned for new projects!)
 
