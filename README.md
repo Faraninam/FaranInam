@@ -42,6 +42,10 @@ __Clock:__ A stylish and functional web-based digital clock with date display an
 
 - Try The Demo! https://faraninam.github.io/Clock/
 
+__Animation:__ An interactive web animation project showcasing modern transitions, shape transformations, and color changes, built using HTML, CSS, and the powerful anime.js library.
+
+- Try The Demo!https://faraninam.github.io/Animation/
+
 (I've always got more ideas brewing, so stay tuned for new projects!)
 
 # Let's Connect! ✉️
