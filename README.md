@@ -24,7 +24,7 @@ Here are a couple of projects where I've been putting my skills into practice:
 
 __To-Do List App:__ A simple, stylish little app to help keep track of daily tasks.
 
-- Check out the Demo! https://faraninam.github.io/To-Do-List/
+- Try The Demo! https://faraninam.github.io/To-Do-List/
 
 __Color Picker:__ A handy web tool for picking colors and grabbing their HEX/RGB codes.
 
